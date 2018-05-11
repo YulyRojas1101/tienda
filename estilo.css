@@ -47,5 +47,11 @@ footer{
 #ofertas{
   background-color: #F8EB52;
   text-align: center;
-  font-family: vedana;
+  font-family: verdana;
+}
+#disponibles{
+  background-color: #FA33B8;
+  text-align: center;
+  font-family: verdana;
+
 }
