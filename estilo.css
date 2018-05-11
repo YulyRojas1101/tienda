@@ -5,3 +5,18 @@ font-family: verdana;
 width: 70%;
 color: #605b56;
 }
+.contenedor
+{
+  display: flex;
+  flex-direction: row;
+  }
+  #contenido
+  {
+    display: flex;
+    flex-direction: column;
+  }
+  #destacados .contenedor> div
+  {
+    text-align: center;
+    
+  }
