@@ -15,7 +15,7 @@
     margin: 10px;
     background-color: white;
     width: 50%;
-    text-shadow: 0 0 3px white;
+
   }
 #ofertas .contenedor>div
 {
@@ -58,4 +58,7 @@ footer{
 body{
   margin-top: auto;
   font-family: fantasy;
+}
+#destacados h1 {
+  text-shadow: 0 0 3px white;
 }
