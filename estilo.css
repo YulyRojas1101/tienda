@@ -33,6 +33,7 @@
   border:solid 5px coral;
   background-color: white;
   width: 25%
+  box-shadow: 4px 8px #D46A6A;
 }
 footer{
   clear: both;
